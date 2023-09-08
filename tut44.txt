@@ -1,0 +1,11 @@
+ --------- virtual Base class ---------
+
+        --->> class B
+class A              --->> class D
+        --->> class C
+        
+if we make a variable 'a' in class A, when we inherit it from class B and class C now both classes
+can use variable 'a' but when we apply multiple inherit from class D then variable 'a' occur two
+times in class D in order to prevent this situation we use virtual Base class its syntax is
+"class B : virtual class A"
+Class A is vartual base class

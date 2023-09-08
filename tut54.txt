@@ -1,0 +1,15 @@
+---------- polymorphism ----------
+"Ability to take more then one form"
+- Poly = Many
+- Morphism = Form
+- Binding = Which object run which function
+Exemple ->> "Function overloading, Operator overloading, Virtual function"
+
+---------- Types of Polymorphism ----------
+1. Runtime polymorphism
+"In this polymorphism, Program run first then compiler take decision that which function will run according to pointer type.It will achieved By"
+    1.1 Virtual Functions
+2. Compile Time Polymorphism
+"In this polymorphism,In this polymorphism Compiler take decision that which function will run-first. it is also called early binding, Static binding. This polymorphism can be achieved by two ways"
+    2.1 Function overloading
+    2.2 Operator overloading

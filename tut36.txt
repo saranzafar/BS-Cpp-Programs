@@ -1,0 +1,29 @@
+//********** Inheritance in cpp **********
+/*
+1. it is part of OOP
+2. it increse Reuseability which save time and money
+3. it reduce repetation
+4. it take attributes of Base class with additional feature
+5. if we make  class of name "Employee"(Base class) and 2nd class "Programmer" which
+6. take atributes of "Employee" then 2nd class is called derived class
+7. we can make more then one derived class & base class
+*/
+//********** Types of Inheritance in cpp **********
+/*
+1. Single Inheritance " A derived class with only one base class "
+    A --->> B "This arrrow means derives"
+    A <<--- B "This arrrow means Is derived from"
+2. Multiple Inheritance "A derived class with More Then one base class "
+    A --->> C
+    B --->> C
+3. Hierarchical Inheritance " Several derived class from a single base class "
+    C --->> A
+    C --->> B
+4. Miltilevel Inheritance " Derived a class from already derived class "
+    A --->> B --->> C --->> D
+    Example    Animal --->> mammal( = animal + more) --->> cow (= mammal + more)
+5. Hybrid Inheritance "Is combination of "Multiple inheritance" & "Multilevel inheritance" "
+      --->> B
+    A         --->> D
+      --->> C
+*/

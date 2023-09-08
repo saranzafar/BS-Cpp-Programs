@@ -1,0 +1,25 @@
+
+---------- Templets ----------
+-->> Templetes are also called parameterised classes. class is a templet for object and "templet" is a templet for class.
+-->> Suppose we want classes that work similar but all have different data type this situation is only possible by using Templets.
+-->> Why use templet?
+-->> To follow dry run principle.
+-->> Generic means one class can have more then one data type.
+
+-->> Syntax for templet
+
+template <class T>
+class vector
+{
+    T *arr;
+public:
+    vector(T *ar)
+    {
+        // code;
+    }
+};
+int main()
+{
+    vector<int> myvec(ptr);
+    vector<float> myvec(ptr);
+}

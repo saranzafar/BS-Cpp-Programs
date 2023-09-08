@@ -1,0 +1,26 @@
+---------- Introduction to STL ----------
+-->> STL standered templet library. it is library of generic classes and functions()
+-->> STL is use because it is a good idea not to reinvent the wheel
+-->> Two employes HP company Alexender and mengle develop STL
+---------- In competitive Programming ----------
+-->> Limited Time for resizeable array
+-->> Limited Time for sort array
+-->> Limited Time for search an element
+
+---------- why use STL? ----------
+-->> Reuse well tested component
+-->> Time saves
+---------- components of STL ----------
+1. Containers
+            (object that store data)(implemented classes reused)
+2. Algorithums
+            (Set of procedures used for receving a result by menepulating data)(Sorting Algorithum searching Algorithum)
+
+3. iterator
+            (an object points to an element in a continer same as pointer but it is an object)
+            (connect algorithum with cointainers)(object which points to an element of container)
+Example:-
+  _________________
+  |_1_|_2_|_3_|_4_|...
+suppose it is an container now
+iterator can point and moved and instructed by algorithum.

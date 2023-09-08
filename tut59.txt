@@ -1,0 +1,11 @@
+------------------- File i/o in c++ -------------------
+
+-->>  File is a pattren of data or colection of data stored in disk.
+-->>  ASCII table.
+-->>  8 bit used for single character.
+-->>  "Transister as a switch" can be on off millions of time per second. thats why we can transmitt data much fast.
+-->>  Data stream means flow of data.
+-->>  Console can be used for both input and output.
+-->>  Types of Stream
+-->>  input stream.
+-->>  output stream.

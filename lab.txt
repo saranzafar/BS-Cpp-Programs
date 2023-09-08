@@ -1,0 +1,4 @@
+1. hover effect: when you take cursor to an icon it change its colour a little bit.
+transative nature: 
+2. amphibians: which can live on sand as well as water
+3. access: in multilevel inheritancecan third class access 1st class private/public members

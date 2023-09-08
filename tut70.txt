@@ -1,0 +1,21 @@
+--------------- containers types ---------------
+1. sequence container
+    (store data in linear fasion)(in sequence)(Exemple: vector,list,duble ended queue)
+2. associative container
+    (direct access. fast searching, fast deletion, fast mapping)(exemple: set/multiset,map,multimap)
+3. Derived container
+    (realworld mapping)(Example:- stack(last-in-first-out),queue(fifo),priority-queue)
+Explanation:
+-->> Sequence container:
+        1.vector:-
+            -->> fast random access
+            -->> insertion/deletion slow
+            -->> insertion at the end is fast
+        2.list
+            -->> Random access slow
+            -->> Insertion in middle is fast
+            -->> Insertion at the end fast
+-->> Associative container
+            -->> All operation fast except random access
+-->> Derived container
+            -->>Depends on data structure
